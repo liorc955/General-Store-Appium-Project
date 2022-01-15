@@ -27,8 +27,11 @@ For the REST API server, I used the following npm package:
 
 -To run this project:
 You will need to install maven project and appium:
+
 https://github.com/appium/appium-desktop/releases/tag/v1.22.0
+
 https://maven.apache.org/install.html
+
 First, run appium and after that, navigate to the main project folder and run the command:
 ```sh
 mvn test
