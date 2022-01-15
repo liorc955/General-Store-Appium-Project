@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "61c76a8a957a3047555c3011"
+  },
+  "name": "Converse All Star",
+  "price": 55
+},{
+  "_id": {
+    "$oid": "61c76a8a957a3047555c3013"
+  },
+  "name": "Jordan 6 Rings",
+  "price": 165
+},{
+  "_id": {
+    "$oid": "61c76a8a957a3047555c3015"
+  },
+  "name": "LeBron Soldier 12 ",
+  "price": 130
+},{
+  "_id": {
+    "$oid": "61c76a8a957a3047555c3016"
+  },
+  "name": "PG 3",
+  "price": 110
+},{
+  "_id": {
+    "$oid": "61c76a8a957a3047555c3014"
+  },
+  "name": "Jordan Lift Off",
+  "price": 115
+},{
+  "_id": {
+    "$oid": "61c76a8a957a3047555c300e"
+  },
+  "name": "Air Jordan 4 Retro",
+  "price": 160.97
+},{
+  "_id": {
+    "$oid": "61c76a8a957a3047555c3012"
+  },
+  "name": "Air Jordan 9 Retro",
+  "price": 170.97
+},{
+  "_id": {
+    "$oid": "61c76a8a957a3047555c300f"
+  },
+  "name": "Air Jordan 1 Mid SE",
+  "price": 120
+},{
+  "_id": {
+    "$oid": "61c76a8a957a3047555c3010"
+  },
+  "name": "Nike Blazer Mid '77",
+  "price": 110
+},{
+  "_id": {
+    "$oid": "61c76a8a957a3047555c3017"
+  },
+  "name": "Nike SFB Jungle",
+  "price": 116.97
+}]

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Enviroment>
+    <DEVICE_NAME>Galaxy S21 5G</DEVICE_NAME>
+    <UDID>R5CR12HDQ5R</UDID>
+    <PLATFORM_NAME>Android</PLATFORM_NAME>
+    <VERSION>12</VERSION>
+    <NEW_COMMAND_TIMEOUT>20</NEW_COMMAND_TIMEOUT>
+    <noReset>true</noReset>
+    <URL>http://127.0.0.1:4723/wd/hub</URL>
+    <TimeOut>5</TimeOut>
+    <apkPath>/src/test/resources/apk/General-Store.apk</apkPath>
+</Enviroment>
