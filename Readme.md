@@ -12,7 +12,7 @@ I also build a sample REST API server to store the JSON test results files in Mo
 
 ## Tech
 
-For this project, I used the following maven package:
+For this project, I used the following maven packages:
 
 - [Junit](https://junit.org/) - Testing framework for Java
 - [Selenium Java](https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java) - Selenium automates browsers
