@@ -32,18 +32,18 @@ https://github.com/appium/appium-desktop/releases/tag/v1.22.0
 
 https://maven.apache.org/install.html
 
-First, run appium and after that, navigate to the main project folder and run the command:
-```sh
-mvn test
-```
-
-
--To run the REST API server:
+-To run the server:
 You will need to install node js and npm:
 https://nodejs.org/en/
 After that, navigate to the "server" folder and run the command:
 ```sh
 npm start
+```
+## Running Tests
+
+First, run appium and after that, navigate to the main project folder and run the command:
+```sh
+mvn test
 ```
 
 ## Attached resources
