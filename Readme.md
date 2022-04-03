@@ -1,6 +1,4 @@
 # Sample General Store App - Automation Project
-
- [![N|Solid](https://i.ibb.co/NKf7SzW/pngegg.png)]() [![N|Solid](https://i.ibb.co/0M6RCyh/pngegg-1.png)]() [![N|Solid](https://raw.githubusercontent.com/cucumber-ltd/brand/master/images/png/notm/cucumber-mark-green/cucumber-mark-green-128.png)]() [![N|Solid](https://i.ibb.co/yPfS3TH/pngegg-3.png)]() [![N|Solid](https://i.ibb.co/nkgwMWv/pngegg-2.png)]()
  
 
 
